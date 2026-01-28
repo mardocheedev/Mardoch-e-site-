@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Site personnel de Mardochée</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #38bdf8;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue 👋</h1>
+  <p>Je m'appelle <strong>Mardochée</strong>.</p>
+  <p>J'apprends le développement web depuis mon téléphone 📱.</p>
+  <p>Ce site est mon premier projet personnel 🚀</p>
+</body>
+</html>
