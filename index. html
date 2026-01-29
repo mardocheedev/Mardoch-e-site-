@@ -14,12 +14,18 @@
     }
     h1 {
       color: #38bdf8;
+      font-size: 40px;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 20px;
     }
   </style>
 </head>
 <body>
-  <h1><h1 style="font-size:40px;color:red;">
-🔥 MON SITE FONCTIONNE 🔥
-</h1>
+  <h1>👋 Bienvenue sur mon site</h1>
+  <p>Je m'appelle <strong>Mardochée</strong>.</p>
+  <p>J'apprends le développement web depuis mon téléphone 📱.</p>
+  <p>Ceci est mon premier site personnel 🚀</p>
 </body>
 </html>
