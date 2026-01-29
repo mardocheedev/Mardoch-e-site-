@@ -18,9 +18,8 @@
   </style>
 </head>
 <body>
-  <h1>Bienvenue 👋</h1>
-  <p>Je m'appelle <strong>Mardochée</strong>.</p>
-  <p>J'apprends le développement web depuis mon téléphone 📱.</p>
-  <p>Ce site est mon premier projet personnel 🚀</p>
+  <h1><h1 style="font-size:40px;color:red;">
+🔥 MON SITE FONCTIONNE 🔥
+</h1>
 </body>
 </html>
